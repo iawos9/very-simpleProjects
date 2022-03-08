@@ -1,0 +1,4 @@
+in this version, it just makes a new section, displays, and adds labs manually
+
+next time I will try to add an option that generates auto labs for all sections without duplicating.
+every time when you chose that option, a new random list will be there
