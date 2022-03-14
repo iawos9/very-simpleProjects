@@ -1,0 +1,6 @@
+add two new options:
+
+- for add labs names in specific week
+- show labs for that specific week u added
+
+#you can change number of weeks in each semester
