@@ -110,6 +110,9 @@ public class meow {
         //7.03b2
         tinker.add(455,"11:20",true);
         magina.add(455,"1:21:15",false);
+        
+        sf.print();
+        //or any other hero
 
 
 
